@@ -1,4 +1,4 @@
-# AICE.js
+# AIce.js
 
 Artificial Intelligence Conversational Engine
 
